@@ -1,0 +1,7 @@
+exposure
+suns
+lenses
+plane
+antialias
+bulb
+camera
