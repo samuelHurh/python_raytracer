@@ -7,7 +7,7 @@ make run file = "filename.txt"
 which will run the "filename" you specify and generate its corresponding image (delete and run in order to verify program generates the right image)
 
 Some examples of what can be created:
-!(https://github.com/samuelHurh/python_raytracer/blob/main/rasterizer/aa.png?raw=true)
+![alt_text](https://github.com/samuelHurh/python_raytracer/blob/main/raytracer/aa.png?raw=true)
 Anti-Aliasing
 ![alt text](https://github.com/samuelHurh/python_raytracer/blob/main/rasterizer/behind.png?raw=true)
 A sphere placed behind the camera
